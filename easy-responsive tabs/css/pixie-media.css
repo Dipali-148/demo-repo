@@ -1,0 +1,1215 @@
+@media screen and (max-width:1919px) {
+
+.custom-container {
+  margin: 0px 90px;
+}
+header .left-box .country-dropdown a.lang-selection {font-size: 19px;}
+header .right-box li a {font-size: 19px;}
+header .right-box .country-dropdown li {
+  padding-right: 39px;
+}
+header .right-box .country-dropdown a.lang-selection {font-size: 19px;}
+header .right-box li i {
+  font-size: 20px;
+}
+header .right-box .country-dropdown li {
+  padding-right: 38px;
+}
+.banner-section .left-box {left: 90px;}
+.banner-section .left-box .btn-box {width: 32%;}
+.explore-product .text-box h3::after {width: 430px; left:-52px;}
+h3 {font-size: 25px;}
+h2{font-size: ;}
+.explore-product .title img {
+  width: auto;
+  position: absolute;
+  top: -10px;
+  right: 46%;
+  transform: translateX(-50%);
+}
+.welcome-section .right-box .btn-box {
+  width: 50%;
+}
+.customer-review .btn-box {
+  width: 18.0%;
+}
+footer .upper-box li a {font-size: 20px;}
+.explore-industries .resp-vtabs ul.resp-tabs-list {padding: 101px 122px;}
+.welcome-section .inner-box img {
+  width: 348px;
+}
+.welcome-section h3 {
+  font-size: 24px;
+}
+footer .upper-footer .img-box h6 {top: 60px; font-size: 64px;}
+.customer-review {background-size: cover;}
+.explore-industries .explore-title h3 {width: 61%;}
+.customer-review .title-box h2 { font-size: 51px; margin-bottom: 100px; }
+  .welcome-section .main-box .left-box {width: 50%}
+
+footer .col-lg-3 {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 25%;
+  flex: 0 0 38%;
+  max-width: 30%;
+}
+}
+
+
+@media screen and (max-width:1599px) {
+footer .lower-box .unit {width: 22%;}
+footer .lower-box .call {width: 17%;}
+footer .lower-box .mail {width: 18%;}
+header .left-box .img-box img {
+  width: 81%;
+}
+header .right-box {width: 52%;}
+header .left-box {width:48%;}
+.banner-section .left-box h1 {font-size: 72px;}
+.banner-section .right-box img {
+  width: 86%;}
+
+.banner-section {height: 612px;}
+.banner-section .left-box .btn-box {
+  width:37%;
+}
+.welcome-section .main-box .left-box .vector-box {
+  display: none;}
+
+.explore-product .text-box h3::after {
+  width: 397px;
+  left: -50px;
+}
+.welcome-section {
+  height: 960px;
+}
+footer .upper-box .vector {
+  position: absolute;
+  top: 195px;
+  right: -86px;
+}
+.welcome-section .right-box .btn-box {
+  width:57%;
+}
+.welcome-section .inner-box li {
+  width: 31%;
+  margin-right: 30px;
+}
+.customer-review {
+  background-size: 100%;
+}
+.welcome-section .inner-box img {
+  width:308px;
+}
+
+.welcome-section .inner-box .text-box {
+  padding: 25px;
+}
+.welcome-section .inner-box .text-box {height: 180px;}
+.welcome-section .main-box .right-box {left: 80px;}
+.welcome-section h3 {
+  font-size: 21px;
+}
+.welcome-section .inner-box img {
+  width: 310px;
+}
+.customer-review .title-box h2 {
+  font-size: 49px;
+  margin-bottom:60px;
+  line-height: 64px;
+width:73%;
+}
+.explore-industries .explore-title h3 {
+  width: 71%;
+}
+
+.customer-review .btn-box {
+  width:20%;
+}
+.explore-industries .resp-vtabs ul.resp-tabs-list {
+  padding: 118px 70px;
+}
+.explore-industries .resp-tab-item.hor_1 {font-size:20px;}
+.welcome-section .main-box {
+  margin-left: 45px;
+  width: 72%;
+  margin-bottom: 58px;
+  welcome-section h3 
+  font-size: 20px;
+}
+.explore-industries .Power-energy h6 {padding-top: 21px !important;}
+.welcome-section .main-box .left-box .title h2{
+font-size:64px;
+}
+.explore-industries  .title {
+  margin-bottom: 40px;
+}
+.welcome-section .main-box {width: 90%; margin-bottom: 10px;}
+.customer-review .title-box h2 {margin-top: 10px;}
+.explore-industries .resp-vtabs ul.resp-tabs-list {
+  padding:137px 86px;
+}
+footer .upper-box .vector {
+  position: absolute;
+  top: 294px;
+}
+.explore-industries .explore-title p {line-height: 22px;}
+
+footer .lower-box .logo {
+  display: inline-block;
+  width: 23%;}
+footer .lower-box li a {padding: 8px;}
+footer .lower-box .social {
+  width: 18%;}
+
+
+
+
+
+@media screen and (max-width:1439px) {
+  footer .lower-box .unit {
+  width: 20%;
+}
+footer .lower-box .social {
+  width: 19%;
+}
+.custom-container {
+  margin: 0px 80px;
+}
+header .left-box .country-dropdown li {
+  padding-right: 38px;
+}
+header .left-box .country-dropdown {
+  width: 50%;}
+header .left-box {
+  width: 46%;
+}
+header .right-box {
+  width: 54%;
+}
+header .left-box .country-dropdown a.lang-selection {
+  font-size: 18px;
+}
+header .right-box .country-dropdown a.lang-selection {
+  font-size: 18px;
+}
+header .right-box li a {
+  font-size: 18px;
+}
+header .right-box .country-dropdown li:last-child
+{
+  padding-right: 0;
+}
+header .right-box li i {
+  font-size: 18px;
+}
+.banner-section .left-box h1 {
+  font-size: 67px;
+}
+.banner-section .left-box h3 {margin-bottom: 50px;}
+.banner-section .left-box .btn-box {
+  width: 38%;
+}
+.banner-section {
+  height: 582px;
+}
+.comman-section {
+  padding: 70px 0px;
+}
+.welcome-section .main-box .left-box .title h2 {
+  font-size: 60px;
+  width: 93%;
+}
+.explore-product .text-box h3::after {
+  width: 375px;}
+.welcome-section h3 {
+  font-size: 19px;
+  line-height: 31px;
+}
+.welcome-section .right-box .btn-box a.common-btn{
+padding: 20px 25px;}
+.welcome-section .right-box .btn-box {
+  width: 56%;
+}
+.welcome-section .inner-box {
+  margin: 0 100px;
+}
+.welcome-section .inner-box img {
+  width: 312px;
+}
+.welcome-section .inner-box .vector1 {
+  top: 64%;
+}
+.customer-review .title-box h2 {
+  font-size: 47px;
+  line-height:60px;
+  width: 72%;
+}
+.customer-review .btn-box {
+  width: 21%;
+}
+.explore-industries .explore-title h2 {margin-bottom: 42px;}
+.explore-industries .explore-title h3 {
+  width: 83%;
+}
+.explore-industries .resp-tabs-container img {
+  height: 421px;
+}
+.explore-industries .explore-title p {
+  padding-left: 51px;
+  width: 91%;
+}
+.explore-industries .resp-vtabs ul.resp-tabs-list {
+  padding:97px 80px;
+}
+.globle-section .resp-tabs-container.hor_1 .row .left img
+{
+  width: 96%;
+}
+.explore-industries .resp-tab-item.hor_1 {
+  font-size: 19px;
+}
+.explore-industries .arrow .inner-box {left: 50PX;}
+}
+@media screen and (max-width:1365px) {
+.banner-section .left-box .btn-box {
+  height: 68px;}
+  footer .lower-box .call {
+  width: 15%;
+}
+footer .lower-box .social {
+  width: 20%;
+}
+.banner-section .left-box h1 {
+  font-size: 63px;
+  margin-bottom: 22px;
+}
+.banner-section .left-box h3 {
+  margin-bottom: 35px;
+  width: 84%;
+}
+.common-btn {
+  font-size: 21px;
+  border-radius: 50px;
+  padding: 17px 31px;
+}
+.btn-box {
+  height: 68px;}
+.banner-section .left-box .btn-box {
+  width: 37.1%;
+}
+.banner-section {
+  height: 547px;
+}
+.explore-product .main-box img {
+  width: 300px;
+  height: 300px;
+}
+.explore-product .main-box {height: 365px;}
+img {
+  width: 92%;
+}
+.title h2 {font-size: 60px;}
+.explore-product .text-box h3::after {
+  width:356px;}
+.welcome-section .main-box .left-box .title h2 {
+  font-size: 58px;
+  line-height: 80px;}
+.welcome-section .inner-box .text-box {margin-top: 80px;}
+.welcome-section .right-box .btn-box a.common-btn {font-size: 21px; line-height: 17px;}
+.welcome-section .right-box .btn-box {
+  width: 54.3%;
+}
+.welcome-section .inner-box {
+  margin: 0px 56px;
+}
+.welcome-section .inner-box .text-box {
+  height: 140px;
+}
+.welcome-section .inner-box .vector1 {
+  top: 48%;
+right: -135px;
+}
+footer .upper-box .vector {
+  top: 336px;
+  right: -77px;}
+footer .upper-box .col-lg-3 {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 25%;
+  flex: 0 0 30%;
+  max-width: 30%;
+}
+me-section {
+  height: 838px;
+}
+footer .upper-footer .img-box img {
+  width: 100%;
+}
+footer .lower-box h4 {
+  font-size: 26px;}
+
+footer .lower-box p {
+  font-size: 15px;}
+footer .lower-box li a i {
+  font-size: 17px;
+  width: 21px;}
+  .globle-section .dis {
+  padding-top: 80px;
+}
+.globle-section .resp-tab-item.hor_1 {font-size: 33px;}
+.globle-section .resp-tabs-list.hor_1 {width: 325px;}
+.globle-section .box p {margin-bottom: 19px;}
+.customer-review .title-box h2 {
+  font-size: 47px;
+  width: 78%;
+}
+.customer-review .btn-box {
+  width: 20.1%;
+}
+.explore-industries .explore-title h3 {
+  width: 88%;
+}
+.explore-industries .resp-tabs-container img {
+  height: 380px;
+}
+.explore-industries .Power-energy h6 {
+  padding-top: 8px !important;
+}
+.explore-industries .Power-energy h6 {font-size: 32px;}
+.customer-review .title-box h2 {margin-bottom: 47px;}
+.explore-industries .Power-energy h6 {margin-bottom: 5px;}
+.explore-industries .resp-vtabs ul.resp-tabs-list {
+  padding:90px 3px;
+}
+.explore-industries .resp-vtabs .resp-tabs-list li {
+  margin-bottom: 0px !important;
+}
+footer .upper-box .vector {
+  right:-64px;
+}
+
+}
+@media screen and (max-width:1279px) {
+  .banner-section .left-box .btn-box {
+  width: 40%; height: 61px;
+}
+header .menu-box {display: block;}
+header .left-box .country-dropdown{display:none;}
+header .right-box{display: none;}
+header .menu-box .fa.fa-bars {
+  position: absolute;
+  top: 9px;
+  right: 39px;
+  font-size: 28px;
+}
+header .menu-box .fa.fa-times {display: none;}
+.menu-open header .left-box .country-dropdown{display:block;}
+.menu-open header .right-box{display:block;}
+.menu-open header li
+{
+  display: block;
+  text-align: left;
+}
+body.menu-open{overflow: hidden;height: 100%;}
+
+.menu-open header{height: 100vh;}
+body.menu-open header .left-box .img-box {
+  padding-bottom: 50px;
+}
+body.menu-open header .left-box .country-dropdown li {padding-bottom:20px;}
+
+.menu-open header .right-box li{padding-bottom:20px;}
+.menu-open header .menu-box .fa.fa-times {display:block;}
+.menu-open header .menu-box .fa.fa-times {
+  position: absolute;
+  top: 9px;
+  right: 39px;
+  font-size: 28px;
+}
+.menu-open header .menu-box .fa.fa-bars {display: none;}
+.banner-section .left-box h1 {
+  font-size: 48px;
+  
+}
+.banner-section .left-box h1 {
+  font-size: 48px;
+  line-height: 67px;
+  margin-top:40px;
+}
+.custom-container {
+  margin: 0px 60px;
+}
+header .left-box .img-box img {
+  width: 90%;
+}
+h3 {
+  font-size: 23px;
+}
+.banner-section .left-box h3 {
+  margin-bottom: 30px;
+  width: 100%;
+  line-height: 32px;
+}
+.common-btn {
+  font-size: 17px;
+  border-radius: 50px;
+  padding: 14px 26px;
+}
+.btn-box {
+  height:62px;
+}
+.banner-section .left-box .btn-box {
+  width: 40.1%;
+}
+.banner-section {
+  height: 443px;
+}
+.explore-product .main-box img {
+  width: 250px;
+  height: 250px;
+}
+.explore-product .main-box {
+  height: 296px;
+}
+.explore-product .title {
+  margin-bottom: 85px;
+}
+.explore-product .text-box h3::after {
+  width: 278px;
+}
+.explore-product .text-box h3::after {left: -48px;}
+.explore-product .text-box h3 {font-size: 21px;}
+.welcome-section .main-box .left-box .title h2 {
+  font-size: 41px;
+  line-height: 55px;
+}
+.welcome-section .main-box .right-box h3 {
+  width: 90%;
+  margin-bottom: 55px;
+}
+.welcome-section h3 {
+  font-size: 16px;
+  line-height: 31px;
+}
+.welcome-section .right-box .btn-box {
+  width:58%;
+}
+.welcome-section .right-box .btn-box {
+ 
+ width: 67%;
+  height: 67px;
+}
+.welcome-section .inner-box li {
+  width: 30%;
+}
+.welcome-section .inner-box .text-box {
+  height: 135px;
+}
+.welcome-section .inner-box img {
+  width: 238px;
+}
+.welcome-section .inner-box .vector1 {
+  top:53%;
+  right: -87px;
+}
+.welcome-section {
+  height: 808px;
+}
+.customer-review .title-box h2 {font-size: 32px; line-height: 42px;}
+.customer-review .btn-box {
+  width: 20.5%;
+}
+.comman-section {
+  padding: 50px 0px;
+}
+  .explore-industries .explore-title h2 {font-size: 51px;}
+.explore-industries .title img {
+  width: 7%;
+  position: absolute;
+  top: -111px;
+  right: 43%;
+  transform: translateX(-50%);
+}
+.explore-industries .explore-title h3 {font-size: 20px;
+  line-height: 28px;}
+
+.explore-industries .resp-vtabs ul.resp-tabs-list {
+  padding: 101px 3px;
+}
+.explore-industries .Power-energy h6 {
+  font-size: 25px;
+}
+p {
+  font-size: 16px;
+}
+.explore-industries .arrow .inner-box {
+  left: 6PX;
+}
+.title h2 {
+  font-size: 40px;
+}
+.title img {
+  width: 9%;}
+.globle-section .resp-tab-item.hor_1 {
+  font-size: 27px;
+}
+.globle-section .resp-tabs-list.hor_1 {
+  width: 293px;
+}
+.globle-section .dis {
+  padding-top: 10px;
+}
+.globle-section .box p {margin-bottom: 17px !important;}
+footer .upper-footer .img-box h6 {
+  font-size: 39px;
+  line-height: 50px;
+}
+footer .upper-box .col-lg-3 {
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 25%;
+  flex: 0 0 35%;
+  max-width: 33%;
+}
+footer .upper-box li a {
+  font-size: 16px;
+}
+footer img {
+  width: 85%;
+}
+
+
+
+header {
+  padding: 12px 0;
+}
+footer .lower-box .logo {
+  width: 32%;
+}
+footer .lower-box .unit {
+  width: 29%;
+}
+footer .lower-box .call {
+  width: 20%;
+}
+footer .lower-box .mail {
+  width: 31%;
+  margin-top: 30px;
+}
+footer .lower-box .social {
+  width: 26%;
+   margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media screen and (max-width:1023px) {
+  .custom-container {
+  margin: 0px 35px;
+}
+.col-md-4
+{margin-bottom: 30px;}
+header .left-box .country-dropdown li {
+  padding-right:0px;
+}
+body.menu-open header .left-box .country-dropdown li {
+  padding-bottom: 12px;
+}
+.banner-section .left-box {
+  left: 36px;
+}
+.banner-section .left-box .btn-box {
+  width: 46.1%; height: 59px;}
+  .banner-section {
+  height: 285px;
+}
+.banner-section .left-box  .common-btn {
+  padding: 14px 18px;
+  top: 4;
+}
+.banner-section .left-box .btn-box {
+  width: 46.1%;
+  height: 60px;
+}
+.customer-review .title-box h2 {
+  font-size: 45px;
+  width: 64%;
+}
+footer .upper-box h4 {
+  Font-style: Medium;
+  Font-size: 25px;
+  Line-height: 25px;
+  margin-bottom: 24px;
+  margin-top: 30px;
+}
+footer .lower-box .logo {
+  width:35%;
+}
+footer .lower-box .unit {
+  width: 37%;
+}
+footer .lower-box .call {
+  width: 21%;
+}
+footer .lower-box .mail {
+  width: 35%;
+}
+footer .lower-box .social {
+  width: 36%;}
+footer .lower-box .logo img {
+  width: 160px;
+}
+footer .upper-box li a {
+  font-size: 14px;
+}
+footer .upper-box .col-lg-3 {
+  flex: 0 0 41%;
+  max-width: 34%;
+}
+footer .upper-box .col-lg-3 {
+  flex: 0 0 45%;
+  max-width: 42%;
+}
+.explore-industries{display: none;}
+.banner-section .left-box h1 {
+  font-size: 33px;
+  line-height: 49px;}
+  .banner-section .left-box h3 {line-height: 29px; font-size:16px;}
+  .banner-section .left-box .btn-box {
+  width: 57.1%;
+}
+.banner-section {
+  height: 338px;
+}
+.common-btn {
+  font-size: 14px;}
+  .banner-section .left-box .btn-box {
+  width:38.1%;
+  height: 61px;
+}
+.banner-section .left-box h1 {margin-top: 26px;}
+.explore-product .title img {
+  width: 11%;}
+  .explore-product .main-box img {
+  width:170px;
+  height: 200px;
+}
+.explore-product .text-box h3 {
+  font-size: 14px;
+  line-height: 21px;
+}
+.explore-product .main-box {
+  height: 225px;
+}
+.explore-product .text-box h3::after {
+  left: -12px;
+  width: 185px;
+}
+.explore-product .con-box {
+  margin-bottom: 74px;
+}
+.welcome-section .main-box .left-box {
+  width: 100%;
+}
+.globle-section .resp-tabs-list.hor_1 {
+  display: none;
+}
+.globle-section .box h3 {
+  margin-bottom: 1px;
+}
+.welcome-section .main-box .left-box .title h2 {
+  font-size: 40px;
+  line-height: 42px;
+}
+.welcome-section .main-box .right-box{width: 100%;}
+.welcome-section .main-box {
+  margin-left: 0px;}
+  .welcome-section .main-box .right-box {
+  left:0px;
+}
+.welcome-section .right-box .btn-box {
+  width: 44%;
+  height: 67px;
+}
+.welcome-section .inner-box .text-box {
+  margin-top: 34px;
+}
+.welcome-section .inner-box {
+  margin: 0px 0px;
+}
+.welcome-section .inner-box li {
+  width: 45%;
+}
+.welcome-section .inner-box img {
+  width:314px;
+}
+.welcome-section {
+  height: 1206px;
+}
+.welcome-section .inner-box .vector1 {
+  top: 34%;
+  right: -47px;
+}
+.customer-review .title-box h2 {
+  font-size: 22px;
+  line-height: 31px;
+  margin-bottom: 19px;
+}
+.customer-review .btn-box {
+  width: 23.5%;
+}
+footer .upper-footer .img-box h6 {
+  font-size: 35px;
+  line-height: 40px;
+  top: 34px;
+}
+}
+@media screen and (max-width:767px) {
+   .welcome-section .inner-box .text-box a {font-size: 15px;}
+.welcome-section h3 {
+  font-size: 20px;
+}
+
+.banner-section .left-box .btn-box {
+  width: 47.1%;}
+  .banner-section {
+  height: 285px;
+}
+.banner-section .left-box h1 {
+  margin-top: 0px;
+}
+.banner-section .left-box h3 {
+  margin-bottom: 6px;}
+.comman-section {
+  padding: 40px 0px;
+}
+.explore-product .title {
+  margin-bottom: 35px;
+}
+.explore-product .main-box {
+  height: 223px;
+  width: 307px;
+}
+.explore-product .text-box h3 {
+  width:95%;
+  text-align:left;
+  margin: 0 auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  margin-top: 20PX;
+  margin-left: 0;
+  margin-bottom: 20PX
+  line-height: 0;
+}
+.explore-product .text-box h3::after {
+  left: -3px;
+  width: 306px;
+  top: 30px;
+}
+.welcome-section .main-box .title {
+  margin-bottom: 8px;
+}
+.welcome-section .main-box .right-box h3 {
+  width: 90%;
+  margin-bottom: 11px;
+}
+.welcome-section .inner-box .vector1 {
+  top: 34%;
+  right: -31px;
+}
+.welcome-section .inner-box li {
+  width:55%;
+}
+.welcome-section {
+  height: 1542px;
+}
+.customer-review .title-box h2 {
+  font-size: 20px;}
+
+.customer-review .title-box h2 {
+  width: 71%;
+}
+.customer-review  .common-btn {
+  font-size: 14px;
+  border-radius: 50px;
+  padding: 8px 24px;
+}
+.customer-review   .btn-box {
+  height: 50px;
+  width: 27.9%;
+}
+.welcome-section .right-box .btn-box a.common-btn {
+  font-size: 16px;
+  line-height: 17px;
+}
+.globle-section .resp-tabs-container.hor_1 {
+  padding-top: 0px;
+}
+.globle-section h3 {
+  font-size: 14px;
+}
+footer .upper-box {padding-top: 7px;}
+footer .upper-box .col-lg-3 {
+  flex: 0 0 96%;
+  max-width: 50%;
+}
+footer .upper-box li {
+  padding-bottom: 7px;
+}
+footer .lower-box .logo {
+  width:100%;
+  margin-bottom: 10px;
+}
+footer .lower-box .unit {
+  width:100%;
+  margin-bottom:10px;
+}
+footer .lower-box .call {
+  width:100%;
+   margin-bottom:10px;
+}
+footer .lower-box h4 {
+  font-size: 27px;
+}
+footer .lower-box .social {
+  width: 100%;
+   margin-bottom:10px;
+}
+footer .lower-box h4 {
+  margin-bottom: 7px;
+}
+.welcome-section .main-box .left-box .title h2 {
+  font-size: 31px;
+  line-height: 34px;
+}
+footer img {
+  width: 46%;
+}
+footer .bottom-part p {
+  font-size: 12px;
+}
+.explore-product .text-box h3 {
+  font-size: 19px;}
+
+}
+
+
+
+@media screen and (max-width:639px) {
+
+.welcome-section .inner-box .text-box a {font-size: 15px;}
+.welcome-section h3 {
+  font-size: 20px;
+}
+
+header .menu-box .fa.fa-bars {
+  font-size: 23px;
+}
+.banner-section .left-box h1 {
+  font-size: 23px;
+  line-height: 32px;
+  margin-top: 14px;
+  margin-bottom: 5px;
+}
+.banner-section .left-box h3 {
+  line-height: 19px;
+  font-size: 13px;
+}
+
+.banner-section .left-box .btn-box {
+  width: 61.1%;
+}
+.banner-section .left-box .common-btn {
+  padding: 8px 15px;
+}
+.banner-section .left-box .btn-box {
+  width: 61.1%;
+  height: 46px;
+}
+.banner-section {
+  height: 220px;
+}
+header .left-box .country-dropdown a.lang-selection {
+  font-size: 16px;
+}
+header .right-box {
+  width: 100%;
+}
+header .right-box li a {
+  font-size: 16px;
+}
+.menu-open header .right-box li {
+  padding-bottom: 15px;
+}
+body.menu-open header .left-box .img-box {
+  padding-bottom: 29px;
+}
+.title h2 {
+  font-size: 25px;
+  text-align: left;
+}
+.welcome-section .main-box .left-box .title h2 {
+  font-size: 24px;
+  line-height: 34px;
+}
+.welcome-section .main-box .right-box h3 {
+  width: 100%;}
+.welcome-section h3 {
+  font-size: 14px;
+  line-height:20px;
+}
+.welcome-section .right-box .btn-box a.common-btn {
+  font-size: 13px;
+  line-height: 10px;
+  padding: 16px 17px;
+}
+.welcome-section .right-box .btn-box {
+  width: 48%;
+  height: 50px;
+}
+.welcome-section .inner-box img {
+  width: 226px;
+}
+.welcome-section {
+  height: 1285px;
+  font-size: 16px;
+  line-height: 22px;
+margin-bottom: 0px;
+}
+.customer-review .title-box h2 {
+  width: 100%;
+}
+.welcome-section .inner-box .vector1 {
+  top: 81%;
+  right: -33px;
+}
+.customer-review .title-box h2 {
+  width: 100%;
+  margin: 0 auto;
+}
+.customer-review .btn-box {
+  width: 39.9%;
+}
+.comman-section {
+  padding: 25px 0px;
+}
+footer .upper-footer .img-box h6 {
+  font-size: 21px;
+  line-height: 25px;
+  top: 28px;
+}
+footer .upper-box .col-lg-3 {
+  flex: 0 0 96%;
+  max-width: 52%;
+}
+footer .upper-box {
+  margin-bottom: 6px;}
+}
+footer .lower-box {
+  padding: 25px 0px;
+}
+footer .lower-box .logo img {
+  width: 145px;
+}
+footer .lower-box h4 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+footer .lower-box .logo {
+  width: 100%;
+  margin-bottom: 26px;
+}
+footer .lower-box p {
+  font-size: 13px;
+}
+footer .lower-box .unit {
+  margin-bottom: 20px;
+}
+footer .lower-box .call {
+  margin-bottom: 0px;
+}
+footer .lower-box li a {
+  padding: 4px;
+}
+footer .lower-box li a i {
+  font-size: 14px;
+  width: 22px;
+}
+footer .bottom-part {
+  display:block;
+  margin-bottom: 20px;
+}
+footer .bottom-part .right {
+
+  margin-bottom: 1px;}
+footer .bottom-part .left {
+
+  margin-bottom: 10px;}
+footer .bottom-part {margin-bottom: 0;}
+
+}
+@media screen and (max-width:479px) {
+  .welcome-section .inner-box .text-box a {font-size: 15px;}
+.welcome-section h3 {
+  font-size: 20px;
+}
+
+header .left-box {
+  width: 100%;
+}
+header .menu-box .fa.fa-bars {
+  font-size: 23px;
+}
+.menu-open header .menu-box .fa.fa-times {font-size: 23px;
+}
+.banner-section .left-box h1 {
+  margin-top:50px;
+  margin-bottom: 5px;
+}
+.banner-section .left-box h1 {
+  font-size: 16px;
+  line-height: 27px;}
+.banner-section .left-box h3 {
+  line-height: 15px;
+  font-size: 10px;
+}
+.common-btn {
+  font-size: 12px;
+  padding: 4px 9px;
+}
+.btn-box 
+{
+  display: none ;
+}
+.banner-section {
+  height: 171px;
+}
+.explore-product .text-box h3 {text-align:center;}
+.title h2 {
+  font-size: 24px;
+  text-align: center;
+}
+.explore-product .title {
+  margin-bottom: 20px;
+}
+.explore-product .text-box h3::after {
+  top: 60px;
+}
+.welcome-section h3 {
+  font-size: 11px;}
+  
+.welcome-section .main-box .left-box .title h2 {text-align: center;}
+.welcome-section ul
+{
+  text-align: center;
+}
+.welcome-section .inner-box li {
+  width: 100%;
+}
+.customer-review .title-box h2 {
+  font-size: 14px;
+  line-height: 24px;
+}
+.welcome-section {
+  height: 1398px;}
+  .welcome-section .inner-box .vector1 {
+  top: 77%;
+  right: -32px;
+}
+.globle-section .resp-tabs-container.hor_1 .row .left {
+  width: 100%;
+  text-align: center;
+}
+.globle-section .resp-tabs-container.hor_1 .row .right {
+  width: 100%;
+  text-align: center;
+}
+.globle-section .box p {font-size: 15px;}
+footer .upper-footer .img-box h6 {
+  font-size: 19px;
+  line-height: 23px;
+  top: 21px;
+  text-align: center;
+  left: 68px;
+}
+.welcome-section .inner-box img {
+  width: 289px;
+}
+footer .upper-box .vector {display: none;}
+footer .upper-box .col-lg-3 {
+  flex: 0 0 96%;
+  max-width: 100%;
+}
+ul {text-align: center;}
+footer .bottom-part {
+  margin-bottom: 0;
+  text-align: center;
+}
+footer .lower-box {
+  text-align: center;
+}
+}
+@media screen and (max-width:359px) {
+footer .upper-box h4 {
+  Font-style: Medium;
+  Font-size: 21px;
+  Line-height: 18px;
+  margin-bottom: 17px;
+  margin-top: 27px;}
+  .banner-section .left-box h1 {
+  font-size: 13px;
+  line-height: 20px;
+  margin-top: 0;
+}
+.banner-section {
+  height: 155px;
+}
+.title h2 {
+  font-size: 22px;}
+.explore-product .main-box {
+  height: 199px;
+  width: 242px;
+}
+.explore-product .text-box h3 {
+  font-size: 15px;
+}
+.explore-product .text-box h3::after {
+  left: -3px;
+  width: 243px;}
+.welcome-section .main-box .right-box h3 {
+  width:100%;
+  margin-bottom: 0px;
+}
+.welcome-section .inner-box img {
+  width: 249px;
+}
+.welcome-section .inner-box .text-box a {font-size: 15px;}
+.welcome-section h3 {
+  font-size: 20px;
+}
+.customer-review .title-box h2 {
+  font-size: 13px;
+  line-height: 16px;
+}
+.title {
+  margin-bottom: 20px;
+}
+
+
+
+
+
+}

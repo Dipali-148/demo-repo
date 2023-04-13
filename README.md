@@ -1,2 +1,2 @@
-# demo-repo
+# demo
 Learning Github for the first time.
